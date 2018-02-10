@@ -1,7 +1,7 @@
 package ObserverPatternDemo;
 
 public class FirstNameObserver implements IObserver {
-	private Student student;
+	//private Student student;
 	
 	public FirstNameObserver() {
 		
